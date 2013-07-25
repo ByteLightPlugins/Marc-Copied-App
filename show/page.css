@@ -1,0 +1,9 @@
+input {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  box-sizing: border-box;
+  font-size: 20px;
+  border-radius: 0;
+  padding: 5px;
+}
